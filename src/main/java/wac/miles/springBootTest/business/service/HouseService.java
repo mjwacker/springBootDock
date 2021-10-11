@@ -11,7 +11,7 @@ public class HouseService {
     @Autowired
     HouseRepository houseRepository;
 
-    House findById(Integer id){
+    House findById(Long id){
         House house = houseRepository.findById(id).get();
 
         return house;

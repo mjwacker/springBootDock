@@ -23,7 +23,7 @@ public class HouseController {
 
     @ApiOperation(value = "Returns a house object give the id.",response = House.class)
     @GetMapping("/{id}")
-    public @ResponseBody  House getById(@PathVariable(name="id") Integer id){
+    public @ResponseBody  House getById(@PathVariable(name="id") Long id){
         return houseRepository.findById(id).orElse(new House());
     }
 
