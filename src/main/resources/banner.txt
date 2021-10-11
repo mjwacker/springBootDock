@@ -1,20 +1,14 @@
-                                                                                    /+              
-                                                                                   omh              
-         +sssssso.         .ossssss+-ssssssssssoo+:.    osssssssssssssssssso.    .ymmm:             
-         .dmmmmmmh-      -smmmmmmd/  +mmmmmmmmmmmmmmho./mmmmmmmmmmmmmmmmmmms    -hmmmms             
-         -mmmmmmmmd:   -smmmmmmmmo   smmmmmmssshmmmmmmddmdysshmmmmmmdmmmmmmo+++odmmmmys:/+++/////-  
-         smmmmmmmmmm+:ymmmmmmmmmd-  -mmmmmmy    :dmmmmmm-    smmmmmm-.+hmmmmmmmho/:ommmmmmmmmdy/.   
-        .dmmmmmmmmmmmmmmmmmmmmmms   ommmmmm:     ommmmmm.   -dmmmmmy    -odmhshhshmmmmmmmmho:       
-        ommmmmohmmmmmmmmmsdmmmmm:  .dmmmmmh     .hmmmmmy    ommmmmm:       - -smmmmmmmmm+.          
-       .dmmmmd .ymmmmmdo.:mmmmmy   +mmmmmm/    /hmmmmmy.   .dmmmmmh        -ymmmmmmmmmmm:           
-       +mmmmmo   smmdo.  smmmmm/   dmmmmmm+++sdmmmmmh/     +mmmmmm/      .ommmmhsohmmmmmo           
-      .dmmmmm-    /+.   :dmmmmd.  +mmmmmmmmmmmmmmds:      -hmmmmmd.     -hmds/-    -odmmy           
-     /hhhhhhhs        .ohhhhhhho-shhhhhhhhhhyso/-       .+hhhhhhhhs.   -s+-           :oh.          
-                                                                                                    
 
-State of Montana
-Department of Transportation
-Information Services Division
-Applications Team
+ wwwwwww       ww       wwwwww  wwww         wwwwww
+  wwwwwww     wwww     wwwwww  wwwwww      wwwwwwwwww
+   wwwwwww   wwwwww   wwwwww  www  www    wwww      ww
+    wwwwwww wwwwwwww wwwwww  www    www  www
+     wwwwwwwwwwwwwwwwwwwww  wwwwwwwwwwww  wwww      ww
+      wwwww  wwwwww  wwww  wwww      wwww   wwwwwwwww
+       www    wwww   www  wwww        wwww    wwwww
+
+
+Miles Wacker - WAC
+Software Developer
 
 Spring Boot Version: ${spring-boot.formatted-version}
