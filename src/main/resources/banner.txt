@@ -1,11 +1,11 @@
 
- wwwwwww       ww       wwwwww  wwww         wwwwww
-  wwwwwww     wwww     wwwwww  wwwwww      wwwwwwwwww
-   wwwwwww   wwwwww   wwwwww  www  www    wwww      ww
-    wwwwwww wwwwwwww wwwwww  www    www  www
-     wwwwwwwwwwwwwwwwwwwww  wwwwwwwwwwww  wwww      ww
-      wwwww  wwwwww  wwww  wwww      wwww   wwwwwwwww
-       www    wwww   www  wwww        wwww    wwwww
+ wwwwwww       ww       wwwwww  wwww          wwwww
+  wwwwwww     wwww     wwwwww  wwwwww       wwwwwwwwwww
+   wwwwwww   wwwwww   wwwwww  www  www    wwwww      www
+    wwwwwww wwwwwwww wwwwww  www    www  wwww
+     wwwwwwwwwwwwwwwwwwwww  wwwwwwwwwwww  wwwww      www
+      wwwww  wwwwww  wwww  wwww      wwww   wwwwwwwwwww
+       www     ww    www  wwww        wwww     wwww
 
 
 Miles Wacker - WAC

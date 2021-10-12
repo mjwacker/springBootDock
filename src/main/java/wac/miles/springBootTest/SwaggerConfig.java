@@ -34,10 +34,10 @@ public class SwaggerConfig {
 
     private ApiInfo metaData() {
         return new ApiInfoBuilder()
-                .title("TIS Legacy Service REST API")
-                .description("The tis legacy service is a RESTful web application built with Spring Boot.  It’s sole purpose is to fulfill requests made from any remaining MDT applications that make requests to TIS Functions and Procedures.")
+                .title("Spring Boot test REST API")
+                .description("Spring Boot provides a powerful RESTful implemenation.")
                 .version(environment.getProperty("version"))
-                .contact(new Contact("MDT ISD App Maint API", "mdt.mt.gov", "mdtisdappmaintapi@mt.gov")).build();
+                .contact(new Contact("Miles Wacker", "https://www.linkedin.com/in/miles-wacker-68941282/", "mileswacker@yahoo.com")).build();
 
     }
 
